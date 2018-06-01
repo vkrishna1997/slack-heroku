@@ -1,1 +1,1 @@
-web: java -jar SlackHolidays.jar
+worker: sh target/bin/worker
