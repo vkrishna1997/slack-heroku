@@ -1,1 +1,1 @@
-worker: sh worker.sh
+worker: java -jar SlackHolidays.jar
