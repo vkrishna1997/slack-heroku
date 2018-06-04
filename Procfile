@@ -1,1 +1,1 @@
-web: java -jar SlackHolidays.jar
+java -jar SlackHolidays.jar
